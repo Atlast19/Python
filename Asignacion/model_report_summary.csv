@@ -1,0 +1,2 @@
+chosen_model,test_accuracy,test_f1,confusion_matrix
+RandomForest,0.8266666666666667,0.7111111111111111,"[[46, 5], [8, 16]]"
